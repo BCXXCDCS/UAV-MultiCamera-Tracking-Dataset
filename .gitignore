@@ -1,0 +1,6 @@
+*.7z
+*.7z.*
+*.partial
+downloads/
+extracted/
+__pycache__/

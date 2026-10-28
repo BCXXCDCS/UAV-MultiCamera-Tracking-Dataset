@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "repository": "BCXXCDCS/UAV-MultiCamera-Tracking-Dataset",
+  "tag": "v1.0.0",
+  "release_url": "https://github.com/BCXXCDCS/UAV-MultiCamera-Tracking-Dataset/releases/tag/v1.0.0",
+  "archive_name": "UAV_Dataset_Public.7z",
+  "archive_sha256": "ced4c0222927d0cee1e11e754e1881150759afb91052beb1d3fb1ccb2306497b",
+  "archive_size_bytes": 12915238189,
+  "max_part_bytes": 1800000000,
+  "source_file_count": 19853,
+  "source_size_bytes": 15698149124,
+  "archive_root": "UAV_Dataset_Public",
+  "parts": [
+    {
+      "name": "UAV_Dataset_Public.7z.001",
+      "size_bytes": 1800000000,
+      "sha256": "95033750419bc7adc859685d442b0cb6a3d8da1da6708428b7c5a0ec2c81b519",
+      "url": "https://github.com/BCXXCDCS/UAV-MultiCamera-Tracking-Dataset/releases/download/v1.0.0/UAV_Dataset_Public.7z.001"
+    },
+    {
+      "name": "UAV_Dataset_Public.7z.002",
+      "size_bytes": 1800000000,
+      "sha256": "36b24235fb5b50117b694fd31c8e33dd375f02cd64af7ab75fd87a4de0e88779",
+      "url": "https://github.com/BCXXCDCS/UAV-MultiCamera-Tracking-Dataset/releases/download/v1.0.0/UAV_Dataset_Public.7z.002"
+    },
+    {
+      "name": "UAV_Dataset_Public.7z.003",
+      "size_bytes": 1800000000,
+      "sha256": "f6af03475fdd2f2a61645a83fc672f41b73a2f46fbe3d675fc389ddeddc9960c",
+      "url": "https://github.com/BCXXCDCS/UAV-MultiCamera-Tracking-Dataset/releases/download/v1.0.0/UAV_Dataset_Public.7z.003"
+    },
+    {
+      "name": "UAV_Dataset_Public.7z.004",
+      "size_bytes": 1800000000,
+      "sha256": "96bafda4460e1968a9f7cf1aa2e6090ea6e5267258ce5dae77ee6791a043cfe0",
+      "url": "https://github.com/BCXXCDCS/UAV-MultiCamera-Tracking-Dataset/releases/download/v1.0.0/UAV_Dataset_Public.7z.004"
+    },
+    {
+      "name": "UAV_Dataset_Public.7z.005",
+      "size_bytes": 1800000000,
+      "sha256": "206f932ec93992281b37ab2684da5c5a8a8bb0220a7c8c2bf89dca7db67938da",
+      "url": "https://github.com/BCXXCDCS/UAV-MultiCamera-Tracking-Dataset/releases/download/v1.0.0/UAV_Dataset_Public.7z.005"
+    },
+    {
+      "name": "UAV_Dataset_Public.7z.006",
+      "size_bytes": 1800000000,
+      "sha256": "8b075b4ab3655f5224bd7d22785ed0e1e2700484c8abe67ff442b09eceb1c633",
+      "url": "https://github.com/BCXXCDCS/UAV-MultiCamera-Tracking-Dataset/releases/download/v1.0.0/UAV_Dataset_Public.7z.006"
+    },
+    {
+      "name": "UAV_Dataset_Public.7z.007",
+      "size_bytes": 1800000000,
+      "sha256": "ed8483cfbd43ee8bbc03b3803192d9b4f8210bf37de47f0a3c63a2046689e928",
+      "url": "https://github.com/BCXXCDCS/UAV-MultiCamera-Tracking-Dataset/releases/download/v1.0.0/UAV_Dataset_Public.7z.007"
+    },
+    {
+      "name": "UAV_Dataset_Public.7z.008",
+      "size_bytes": 315238189,
+      "sha256": "f419292cd9c501e5dcf7e52bcd4db4b424b05d723520033f50e8c6305a7a0fa9",
+      "url": "https://github.com/BCXXCDCS/UAV-MultiCamera-Tracking-Dataset/releases/download/v1.0.0/UAV_Dataset_Public.7z.008"
+    }
+  ]
+}
